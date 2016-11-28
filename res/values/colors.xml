@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#043927</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#c4b581</color>
+    <color name="colorButton">#0fa153</color>
+    <color name="colorButton2">#00573d</color>
+    <color name="dark_gray">#ffb3b3b3</color>
+    <color name="very_dark_gray">#636363</color>
+    <color name="sinch_purple">#ff63029d</color>
+    <color name="off_white">#fffafafa</color>
+</resources>

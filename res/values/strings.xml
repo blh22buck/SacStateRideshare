@@ -1,0 +1,93 @@
+<resources>
+    <!-- App Name String-->
+    <string name="app_name">Ride Share</string>
+
+    <!-- Action/Button Strings-->
+    <string name="action_request_register">DON\'T HAVE AN ACCOUNT?</string>
+    <string name="action_forgot_password">Forgot Your Password?</string>
+    <string name="action_sign_in">LOGIN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_back">Back</string>
+    <string name="action_change_password">Change Password</string>
+    <string name="action_register">Register</string>
+
+    <!-- Prompt Strings-->
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_to_school">To School</string>
+    <string name="prompt_from_school">From School</string>
+    <string name="prompt_zip_code">Zip Code</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_role">Role</string>
+    <string name="prompt_gender">Gender</string>
+
+    <!-- Random Strings -->
+    <string name="string_change_password">Change your Password</string>
+    <string name="string_new_password">New Password</string>
+    <string name="string_already_registered">Already Registered</string>
+    <string name="string_user_agreement">You agree that you are over 18 and to the TERMS OF SERVICE</string>
+    <string name="string_enter_gender">Enter your Gender</string>
+    <string name="string_enter_status">Enter your Status</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="string_enter_their_gender">Enter their Gender</string>
+    <string name="string_enter_their_status">Enter their Status</string>
+    <string name="string_enter_their_disability">Enter if they have a Disability</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_choose_username">Choose your username</string>
+    <string name="string_enter_name">Enter your name</string>
+
+    <!-- Working On it -->
+    <string name="TV_driver_pass">Driver</string>
+    <string name="TV_Email">foo@csus.edu</string>
+    <string name="TV_toSchool">8:00AM</string>
+    <string name="TV_leaveSchool">5:00PM</string>
+    <string name="TV_Gender">Male</string>
+    <string name="TV_Relation">student</string>
+    <string name="TV_ZipCode">95833</string>
+    <string name="submit_edit_button">Submit Edit</string>
+    <string name="ProfileTitle">Username</string>
+    <string name="profileToMessanger">Messenger</string>
+    <string name="button_Rating">Rating</string>
+    <string name="button_edit">Edit Profile</string>
+    <string name="TV_comment">Comments:</string>
+    <string name="TV_Com1">1.</string>
+    <string name="onTime">On Time:</string>
+    <string name="TV_clean">Cleanliness</string>
+    <string name="string_rate_user">Rate User</string>
+    <string name="string_cleanliness">Cleanliness</string>
+    <string name="string_onTime">On time</string>
+    <string name="string_comment">Your comment</string>
+    <string name="string_submit">Submit</string>
+    <string name="button_back">Back</string>
+    <string name="button_Rate">Rate</string>
+    <string name="message_elipses">Message...</string>
+    <string name="logout">SacRides Users</string>
+
+    <!-- String-Arrays for spinners -->
+    <string-array name="gender_array">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="status_array">
+        <item>Select</item>
+        <item>Student</item>
+        <item>Faculty</item>
+    </string-array>
+
+    <string-array name="disability_array">
+        <item>Select</item>
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+
+    <string-array name="role_array">
+        <item>Driver/Passenger</item>
+        <item>Driver</item>
+        <item>Passenger</item>
+    </string-array>
+
+</resources>
